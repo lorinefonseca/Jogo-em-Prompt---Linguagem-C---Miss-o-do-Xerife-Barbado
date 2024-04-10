@@ -9,7 +9,7 @@ Seguem os pontos alterados:
 A partir do código base, implementamos um menu de início de jogo, uma carta de apresentação da história e um sistema de pontuação baseado em coleta de itens, além de um monstro adicional, totalizando 2 inimigos.
 A ideia do jogo é coletar os tesouros espalhados pelos níveis da caverna, enquanto evita os inimigos e tenta chegar a saída.
 
-<h3>EXPLICANDO O CÓDIGO</h3><br>
+<h3>EXPLICANDO O CÓDIGO</h3>
 • Linha 13 – altera a cor do prompt<br>
 • Linha 19 – cria uma variável de confirmação de início do jogo<br>
 • Linha 22 – cria a variável da saída com as coordenadas para o centro da matriz/mapa<br>
