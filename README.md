@@ -10,10 +10,10 @@ A partir do código base, implementamos um menu de início de jogo, uma carta de
 A ideia do jogo é coletar os tesouros espalhados pelos níveis da caverna, enquanto evita os inimigos e tenta chegar a saída.
 
 EXPLICANDO O CÓDIGO
-Linha 13 – altera a cor do prompt
-Linha 19 – cria uma variável de confirmação de início do jogo
-Linha 22 – cria a variável da saída com as coordenadas para o centro da matriz/mapa
-Linha 23 a 25 – cria as variáveis de itens em posições aleatórias da matriz/mapa
+Linha 13 – altera a cor do prompt <br>
+Linha 19 – cria uma variável de confirmação de início do jogo<br>
+Linha 22 – cria a variável da saída com as coordenadas para o centro da matriz/mapa<br>
+Linha 23 a 25 – cria as variáveis de itens em posições aleatórias da matriz/mapa<br>
 Linha 28 a 30 – cria variáveis para identificar se o item está presente ou não
 Linha 33 – cria uma variável que armazena a pontuação
 Linha 34 – cria uma variável que armazena o nível do jogo
